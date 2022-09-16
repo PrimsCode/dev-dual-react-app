@@ -15,7 +15,6 @@ This specification is split into multiple parts.
 - [Server](server/README.md) - Information specific to Node API implementation
 
 ---
-
 ## Requirements Overview
 
 Students will implement a web application to communicate with a provided supporting API to get the following data for a given user's GitHub profile. The backend has been implemented as a Node API using Express that will call GitHub's API to fetch data necessary to derive/display the data specified. The user will see a home page where they can choose between two options: **inspect** or **duel**.

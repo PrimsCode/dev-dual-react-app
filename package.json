@@ -17,6 +17,8 @@
     "express-validation": "^1.0.2",
     "http-status": "^1.2.0",
     "morgan": "^1.8.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "resource-router-middleware": "^0.6.0"
   },
   "devDependencies": {
